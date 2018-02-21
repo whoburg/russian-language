@@ -8,7 +8,7 @@
 
 |  | Nominative | Prepositional |
 | --- | --- | --- |
-| Masculine | ый |  |
-| Neuter    | ое |  |
-| Feminine  | ая |  |
-| Plural    | ые |  |
+| Masculine | ый | ом |
+| Neuter    | ое | ом |
+| Feminine  | ая | ой |
+| Plural    | ые | ых |
