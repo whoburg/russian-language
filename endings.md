@@ -5,10 +5,13 @@
 
 |  | Nominative | Prepositional | Accusative |
 | --- | --- | --- | --- |
-| Masculine |  | е | -/а |
-| Neutral    |  | е | - |
-| Feminine  |  | е | у |
-| Plural    | ы/и | ах | -/ов/ев |
+| Masculine | consonant/ь | е/и | -/а/я |
+| Neutral    | о/е | е | - |
+| Feminine  | а/я/ь | е/и | у |
+| Plural    | ы/и (neutral: а/я) | ах | -/ов/ев |
+
+## Nominative Plurals
+
 
 ## Adjectives
 
