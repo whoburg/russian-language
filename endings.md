@@ -6,7 +6,7 @@
 |  | Nominative | Prepositional | Accusative |
 | --- | --- | --- | --- |
 | Masculine |  | е | -/ов/ев |
-| Neuter    |  | е | -/ов/ев |
+| Neutral    |  | е | -/ов/ев |
 | Feminine  |  | е | у |
 | Plural    | ы/и | ах | ов/ев |
 
@@ -15,7 +15,7 @@
 |  | Nominative | Prepositional | Accusative |
 | --- | --- | --- | --- |
 | Masculine | ый | ом | -/у |
-| Neuter    | ое | ом | -/у |
+| Neutral    | ое | ом | -/у |
 | Feminine  | ая | ой | ую |
 | Plural    | ые | ых/их | ых/их |
 
@@ -24,7 +24,7 @@
 
 |  | First | Second |
 | --- | --- | --- |
-| я   | ю   | у   |
+| я   | у   | ю   |
 | ты  | ешь | ишь |
 | она | ет  | ит  |
 | мы  | ем  | им  |
