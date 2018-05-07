@@ -5,7 +5,7 @@
 
 |  | Nominative | Prepositional | Accusative |
 | --- | --- | --- | --- |
-| Masculine |  | е | -/а/у |
+| Masculine |  | е | -/а |
 | Neutral    |  | е | - |
 | Feminine  |  | е | у |
 | Plural    | ы/и | ах | -/ов/ев |
