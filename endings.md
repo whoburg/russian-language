@@ -5,17 +5,17 @@
 
 |  | Nominative | Prepositional | Accusative |
 | --- | --- | --- | --- |
-| Masculine |  | е | -/ов/ев |
-| Neutral    |  | е | -/ов/ев |
+| Masculine |  | е | -/а/у |
+| Neutral    |  | е | - |
 | Feminine  |  | е | у |
-| Plural    | ы/и | ах | ов/ев |
+| Plural    | ы/и | ах | -/ов/ев |
 
 ## Adjectives
 
 |  | Nominative | Prepositional | Accusative |
 | --- | --- | --- | --- |
-| Masculine | ый | ом | -/у |
-| Neutral    | ое | ом | -/у |
+| Masculine | ый | ом | -/а/у |
+| Neutral    | ое | ом | ое |
 | Feminine  | ая | ой | ую |
 | Plural    | ые | ых/их | ых/их |
 
