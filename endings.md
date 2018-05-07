@@ -3,15 +3,21 @@
 
 ## Nouns
 
+|  | Nominative | Prepositional | Accusative |
+| --- | --- | --- | --- |
+| Masculine |  | е | -/ов/ев |
+| Neuter    |  | е | -/ов/ев |
+| Feminine  |  | е | у |
+| Plural    | ы/и | ах | ов/ев |
 
 ## Adjectives
 
-|  | Nominative | Prepositional |
-| --- | --- | --- |
-| Masculine | ый | ом |
-| Neuter    | ое | ом |
-| Feminine  | ая | ой |
-| Plural    | ые | ых |
+|  | Nominative | Prepositional | Accusative |
+| --- | --- | --- | --- |
+| Masculine | ый | ом | -/у |
+| Neuter    | ое | ом | -/у |
+| Feminine  | ая | ой | ую |
+| Plural    | ые | ых/их | ых/их |
 
 
 # Verb Conjugation
